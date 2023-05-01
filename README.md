@@ -1,2 +1,6 @@
-# points-calculation
-To calculate the points in each week, Only serves the class
+# 算分程序
+仅服务于班级使用
+
+## 使用方法：从release中找到最新版本并下载
+
+## 具体使用方法
